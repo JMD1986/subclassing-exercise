@@ -1,3 +1,5 @@
-# subclassing-exercise
-# subclassing-exercise
-# subclassing-exercise
+##This is an exercise in subclassing and inheritance
+
+###It involves overriding inherited methods
+
+###It is fully tested.
